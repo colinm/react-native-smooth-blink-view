@@ -15,7 +15,7 @@
   "license": "ISC",
   "peerDependencies": {
     "prop-types": "15.7.2",
-    "react-native": "0.64.3"
+    "react-native": "0.66.4"
   },
   "repository": {
     "type": "git",
