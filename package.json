@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/viet97/react-native-smooth-blink-view.git"
+    "url": "git+https://github.com/colinm/react-native-smooth-blink-view.git"
   },
   "bugs": {
     "url": "https://github.com/viet97/react-native-smooth-blink-view/issues"
