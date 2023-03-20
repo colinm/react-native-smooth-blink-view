@@ -14,7 +14,7 @@
   "author": "vietdq <quocvietdang97@gmail.com>",
   "license": "ISC",
   "peerDependencies": {
-    "prop-types": "15.7.2",
+    "prop-types": "15.7.2"
   },
   "repository": {
     "type": "git",
